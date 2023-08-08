@@ -11,37 +11,37 @@ document.addEventListener("keyup", function (event1) {
 function makeSound(key) {
   switch (key) {
     case "e":
-      var E = new Audio("sounds/E.mp3");
+      var E = new Audio("music/E.mp3");
       E.play();
       break;
 
     case "a":
-      var A = new Audio("sounds/A.mp3");
+      var A = new Audio("music/A.mp3");
       A.play();
       break;
 
     case "s":
-      var S = new Audio("sounds/S.mp3");
+      var S = new Audio("music/S.mp3");
       S.play();
       break;
 
     case "d":
-      var D = new Audio("sounds/D.mp3");
+      var D = new Audio("music/D.mp3");
       D.play();
       break;
 
     case "j":
-      var J = new Audio("sounds/J.mp3");
+      var J = new Audio("music/J.mp3");
       J.play();
       break;
 
     case "k":
-      var K = new Audio("sounds/K.mp3");
+      var K = new Audio("music/K.mp3");
       K.play();
       break;
 
     case "l":
-      var L = new Audio("sounds/L.mp3");
+      var L = new Audio("music/L.mp3");
       L.play();
       break;
 
